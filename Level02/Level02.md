@@ -8,6 +8,7 @@ Level02 files also inside the "/levels/" location.
 There is "level02" file. We can check that file using "file" command.
 
 ![](Images/2.png)
+
 After run that file they have given us a message.
 
 ![](Images/3.png)
