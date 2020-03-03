@@ -1,6 +1,5 @@
 Get into level 02 also just like level01, "ssh
-[[level02\@io.netgarage.org]{.underline}](mailto:level02@io.netgarage.org)["
-and input it's password which is founded from the level01.]()
+[[level02\@io.netgarage.org]{.underline}](mailto:level02@io.netgarage.org) and input it's password which is founded from the level01.
 
 Level02 files also inside the "/levels/" location.
 
