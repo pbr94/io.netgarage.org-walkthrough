@@ -111,11 +111,11 @@ there should be a method to compare "pass code" and "your input". In
 assembly language we are using "cmp" to compare two parameters. In this
 main function in line 4 there is "cmp" function.
 
-0x0804808f \<+15\>: cmp \$0x10f,%eax
+>0x0804808f \<+15\>: cmp \$0x10f,%eax
 
-or
+               or
 
-0x0804808f \<+15\>: cmp eax,0x10f
+>0x0804808f \<+15\>: cmp eax,0x10f
 
 In those lines (same line with two disassemble-flavors) said, compare
 "value which is on 0x10f memory address" and "which we are inputted
