@@ -16,7 +16,7 @@ Putty guide :
 \[[[https://www.ssh.com/ssh/putty/windows]{.underline}](https://www.ssh.com/ssh/putty/windows)
 \]
 
-![](media/image2.png){width="4.8590277777777775in" height="5.05in"}After
+![](Images/2.png){width="4.8590277777777775in" height="5.05in"}After
 login into the level they will have give again brief idea about the
 level and also about the CTF.
 
