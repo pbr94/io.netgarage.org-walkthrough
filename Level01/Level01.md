@@ -40,7 +40,7 @@ Gdb guide :
 
 After going in to the gdb console, we should find what are functions in this particular file. To find that follow the instructions which are given below with the screenshot.
 
-![](media/8.png)
+![](Images/8.png)
 
 Then we can see the main() function with the temporary breakpoint. We also can add breakpoints to the code.
 
