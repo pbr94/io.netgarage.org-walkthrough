@@ -3,8 +3,7 @@ Before going to the level 01, you should visit to their site which is
 this site they mention everything about the event as well as how to
 login into the level 01.
 
-![](media/image1.png){width="3.4166666666666665in"
-height="0.3854166666666667in"}
+![](Images/1.png)
 
 You can use either Linux OS or else Windows OS. I am going to use Linux
 OS (Xubuntu) because it is really easy. By using "ssh" we can login into
